@@ -1,4 +1,9 @@
-.head { color: green;}
+.head { 
+width:auto;
+height:auto;
+margin-left:45%;
+color: green;
+}
 .head h1 {
 	text-align: center;
 	position: absolute;
